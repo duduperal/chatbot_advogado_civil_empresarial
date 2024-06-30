@@ -1,3 +1,3 @@
 # chatbot_advogado_civil_empresarial
-Esse chatbot foi feito com a API do google gemini e ele foi instruído a responder perguntas sobre direito e justiça, seu nome é Raul Souza
-Para usá-lo basta possuir a API key do gemini e importar ela para seu google colab
+Este bot foi criado para um trabalho da faculdade de Uberlândia UNIUBE
+## A primeira coisa a se fazer
