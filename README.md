@@ -1,5 +1,5 @@
 # chatbot_advogado_civil_empresarial
-# Lembrando que a chave API que está inserida no código será usada apenas no dia da apresentação, depois quem quiser usar terá que usar sua própria chave 👊
+# Lembrando que a chave API que está inserida no google colab será usada apenas no dia da apresentação, depois quem quiser usar terá que usar sua própria chave 👊
 Este bot foi criado para um trabalho da faculdade de Uberlândia UNIUBE
 # A primeira coisa a se fazer foi dar um jeito de importar o gemini para dentro do nosso código usando a API
 ## Dê uma olhada no google colab para ver nossa solução
